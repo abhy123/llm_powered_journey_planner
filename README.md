@@ -1,5 +1,5 @@
 # llm_powered_journey_planner
-A multi-modal AI assistant that can plan your journey, check prices, make bookings, and even generate travel images — all powered by Gradio, OpenAI-style function calling, and Ollama (LLaMA 3).
+A multi-modal AI assistant that can plan your journey, check prices, make bookings, and even generate travel images — all powered by Gradio, OpenAI APIs, and Ollama (LLaMA 3).
 
 **Features**
 - LLM-powered Journey Planner using Ollama
@@ -21,7 +21,7 @@ A multi-modal AI assistant that can plan your journey, check prices, make bookin
 
 - Ollama (LLaMA 3.2 locally)
 
-- OpenAI-style Function Calling (manual parsing)
+- OpenAI APIs used for intelligent conversation, tool calling, and booking simulations(openai - gpt-4o-mini)
 
 - Booking Logic
 
